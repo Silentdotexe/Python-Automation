@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Silentdotexe
 - 👀 I’m interested in automation coding 
-- 🌱 I’m currently learning shell scripting
+- 🌱 I’m currently working in python automation
 - 📫 How to reach me atominbox18@protonmail.com
 
 <!---
